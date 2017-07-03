@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Application</string>
+    <string name="hello_world">CannyThings!</string>
+    <string name="action_settings">Settings</string>
+    <string name="self_construct">Connect</string>
+    <string name="self_destruct">Disconnect</string>
+    <string name="self_message_ON">Light ON</string>
+    <string name="self_message_OFF">Light OFF</string>
+    <string name="getValuesTemp">Temp/Humid</string>
+
+
+</resources>

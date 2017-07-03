@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('pubnub-4.2.0-all.jar'))
